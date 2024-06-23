@@ -10,3 +10,5 @@ import discord
 token = "bitchass token"
 from discord.ext import commands
 message = "everyone" 
+
+artemis = commands.Bot(command_prefix='.'
